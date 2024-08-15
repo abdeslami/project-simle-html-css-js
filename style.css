@@ -1,0 +1,14 @@
+.img1{
+
+width: 20px;
+}
+.img2{
+    width: 50%;
+    margin: 1%;
+    height: 300px;
+}
+details{
+    padding-left: 100px;
+    color: black;
+    font-size: 24px;
+}
